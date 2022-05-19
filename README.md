@@ -36,7 +36,7 @@ You can confirm the information of each country, by giving it a *Thumps up*. Oth
 The latest feature is the Location-Finder.
 If location-services are enabled on your device, you can find the regulations of your current country with one click.
 
-![Screen Shot](https://github.com/schech1/WhereCanIDrink/blob/main/image2.png)
+![Screen Shot](https://github.com/schech1/WhereCanIDrink/blob/main/image2_1.png)
 
 ## Built With
 
