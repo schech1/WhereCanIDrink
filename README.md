@@ -17,6 +17,7 @@
 
 
 
+
 **WhereCanIDrink** is an iOS-App made in Swift. 
 It`s not always easy to keep up with the alcohol regulations in each country. 
 
@@ -25,7 +26,8 @@ It`s not always easy to keep up with the alcohol regulations in each country.
 
 Wherever your trip will lead you, *WhereCanIDrink* got you covered with the local regulations.
 
-![Screen Shot](https://github.com/schech1/WhereCanIDrink/blob/main/image0.png)![Screen Shot](https://github.com/schech1/WhereCanIDrink/blob/main/image1.png)
+![Screen Shot](https://github.com/schech1/WhereCanIDrink/blob/main/app_animated.gif)
+
 
 
 The comment-system allows to share your experience in that country with others.  
@@ -51,3 +53,6 @@ Download it from the Apple AppStore.
 Required iOS 13.0 or newer
 
 https://apps.apple.com/de/app/wherecanidrink/id1620198422?l=en
+
+
+![Screen Shot](https://github.com/schech1/WhereCanIDrink/blob/main/image0.png)![Screen Shot](https://github.com/schech1/WhereCanIDrink/blob/main/image1.png)
