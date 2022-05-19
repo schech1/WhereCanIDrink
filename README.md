@@ -23,7 +23,7 @@ It`s not always easy to keep up with the alcohol regulations in each country.
 + *"Am I allowed to drink in public places in Lithuania?"*
 + *"Where can I buy alcoholic beverages in Sweden"?*
 
-Wherever your trip will lead you, WhereCanIDrink got you covered with the local regulations.
+Wherever your trip will lead you, *WhereCanIDrink* got you covered with the local regulations.
 
 ![Screen Shot](https://github.com/schech1/WhereCanIDrink/blob/main/image0.png)![Screen Shot](https://github.com/schech1/WhereCanIDrink/blob/main/image1.png)
 
