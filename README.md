@@ -15,7 +15,7 @@
 
 ## About The Project
 
-![Screen Shot](https://github.com/schech1/WhereCanIDrink/blob/main/image0.png)
+
 
 WhereCanIDrink is an iOS-App made in Swift. 
 It`s not always easy to keep up with the alcohol regulations in each country. 
@@ -24,12 +24,17 @@ It`s not always easy to keep up with the alcohol regulations in each country.
 
 Wherever your trip will lead you, WhereCanIDrink got you covered with the local regulations.
 
+![Screen Shot](https://github.com/schech1/WhereCanIDrink/blob/main/image0.png)![Screen Shot](https://github.com/schech1/WhereCanIDrink/blob/main/image1.png)
+
+
 The comment-system allows to share your experience in that country with others.  
 Share what is tolerated, what is strictly enforced? 
 Maybe your experience differs completely from the information provided? Just tell us and others.
 You can confirm the information of each country, by giving it a "Thumps up". Other users can see how often the information about alcohol regulations are confirmed.
 
 The latest feature is the Location-Finder. If location-services are enabled on your device, you can find the regulations of your current country with one click.
+
+![Screen Shot](https://github.com/schech1/WhereCanIDrink/blob/main/image2.png)
 
 ## Built With
 
