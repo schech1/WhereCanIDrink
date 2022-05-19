@@ -15,6 +15,8 @@
 
 ## About The Project
 
+![Screen Shot](https://github.com/schech1/WhereCanIDrink/blob/main/MainViewController.PNG)
+
 WhereCanIDrink is an iOS-App made in Swift. 
 It`s not always easy to keep up with the alcohol regulations in each country. 
 "Am I allowed to drink in public places in Lithuania?"
